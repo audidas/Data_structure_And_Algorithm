@@ -15,7 +15,7 @@
 public int Add(int N){
 return N + N;
 }
- ## 1
+ // 1
 ```
 ```
 public int Add2(int N){
@@ -25,6 +25,17 @@ public int Add2(int N){
     }
     return sum;
 }
- ## N+1
+ // N+1
 ```
-
+```
+public int Add3(int N){
+    int sum =0;
+    for(int i=0; i<N; i++>){
+        for(int j=0 ; j<N; j++){
+            sum+=1;
+        }
+    }
+    return sum;
+}
+ // N²+1
+```
