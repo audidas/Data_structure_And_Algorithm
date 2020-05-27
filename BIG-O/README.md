@@ -43,3 +43,22 @@ public int Add3(int N){
 ### 규칙 1) 영향력이 가장 큰 대표 항목만 남기고 삭제
 ### 규칙 2) 상수 무시 (ex.2N => N)
 
+```
+public int Add4(int N){
+    int sum = 0;
+    for(int i=0; i<N;i++){
+        sum +=1;
+    }
+    for(int i=0; i<N *2; i++){
+        for(int j=0; j<N*2; j++){
+            sum+=1;
+        }
+    }
+    sum+=1234567;
+    return sum;
+}
+ /* O(1 + N + 4 * N² + 1)
+    =O(4 * N²)
+    =O( N²)
+    * O 는 Order Of 라고 읽어요! *
+```
