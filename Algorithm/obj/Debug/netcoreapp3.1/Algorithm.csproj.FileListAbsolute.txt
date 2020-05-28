@@ -1,0 +1,12 @@
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.deps.json
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.json
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.runtimeconfig.dev.json
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.dll
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/bin/Debug/netcoreapp3.1/Algorithm.pdb
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csprojAssemblyReference.cache
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.csproj.CoreCompileInputs.cache
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfoInputs.cache
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.AssemblyInfo.cs
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.dll
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.pdb
+/Volumes/USB/CSharp/Data_structure_And_Algorithm/Algorithm/obj/Debug/netcoreapp3.1/Algorithm.genruntimeconfig.cache
